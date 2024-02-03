@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alex Pontes
-- 💻 I’m interested in Data Science e análise de dados
-- 🐍 I’m currently learning Python e SQL
-- 💞️ Estou há 3 anos como analista de dados usando das ferramentas Power Bi e Excel
+👋 Hi, I'm Alex Pontes.
+💻 I'm interested in Data Science and data analysis.
+🐍 I'm currently learning Python and SQL.
+💞️ I have been working as a data analyst for 3 years, using Power BI and Excel tools.
 
 <!---
 AlexPontes97/AlexPontes97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
