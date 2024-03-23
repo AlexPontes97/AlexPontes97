@@ -1,2 +1,1 @@
-Análise de vendas de carros feito no colab
-apenas para estudo, fique  vontade para dar sugestões
+🎮 Analista de Dados Apaixonado por Jogos Aqui! 💡 Python, SQL, Power BI.
